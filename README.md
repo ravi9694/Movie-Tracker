@@ -43,7 +43,7 @@ npm run dev
 ```
 This will start the application. Open a web browser and navigate to http://localhost:3000 to access the website.
 
-Note: Ensure that you have carefully added the TMDB API key and Firebase authentication configuration to your .env file. If the .env file is not working, add all the API keys and configuration manually.
+Note: If the .env file is not working, add all the API keys and configuration manually.
 
 <hr/>
 
